@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This project is a simple number guessing game written in Python. As someone who is just embarking on my journey into programming
+This project is a simple number guessing game written in HTML and CSS. As someone who is just embarking on my journey into programming
 in Python, I created this game as a learning exercise. It's designed to be straightforward yet engaging, asking the player to
 guess a random number within a specified range. The complexity and the number of attempts are calculated based on the range size,
 offering a fun and interactive way to understand basic programming concepts.
