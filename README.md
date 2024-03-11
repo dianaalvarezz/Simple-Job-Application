@@ -3,18 +3,18 @@
 
 ## Introduction
 
-This project is a simple number guessing game written in HTML and CSS. As someone who is just embarking on my journey into programming
-in Python, I created this game as a learning exercise. It's designed to be straightforward yet engaging, asking the player to
-guess a random number within a specified range. The complexity and the number of attempts are calculated based on the range size,
-offering a fun and interactive way to understand basic programming concepts.
+This project is a simple job application written in HTMl. As someone who is just embarking on my journey into programming
+in HTML, I created this prokect as a simple learning exercise. It's designed to be straightforward asking user for personal 
+information such as full name, email address, address, telephone and resume. The user has the ability to upload and attach 
+resume and then submit when done.
 
 ## Learning Journey
 
-This game is a testament to the initial steps of my programming journey, emphasizing the learning process and the application of 
-fundamental Python concepts. As such, it's crafted with simplicity in mind, making it accessible for other beginners who might
-be interested in exploring basic project development and coding practices.
+This project is a testament to the initial steps of my programming journey, emphasizing the use of fundamental HTML skills
+such as forms. As such, it's crafted with simplicity in mind, making it accessible for other beginners who might
+be interested in exploring basic form projects in HTML.
 
-## How to Play
+## How to use
 
 To play the game, you will be prompted to enter a lower and an upper bound for the number range. The game will then calculate the
 number of guesses you have based on these bounds. Your goal is to guess the correct number within these attempts. After each guess,
