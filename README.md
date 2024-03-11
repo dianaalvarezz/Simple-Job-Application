@@ -1,42 +1,35 @@
 # Simple Job Application
 
-
 ## Introduction
 
-This project is a simple job application written in HTMl. As someone who is just embarking on my journey into programming
-in HTML, I created this prokect as a simple learning exercise. It's designed to be straightforward asking user for personal 
-information such as full name, email address, address, telephone and resume. The user has the ability to upload and attach 
-resume and then submit when done.
+This project features a simple job application form created with HTML and a touch of CSS. Designed as an entry-level programming project, it aims to familiarize beginners with the basics of web forms, including gathering user input through fields such as full name, email address, physical address, city, zip code, telephone, and an option to upload a resume. It's a hands-on learning tool for anyone starting their journey in web development, illustrating how to collect and handle user data.
 
-## Learning Journey
+## Objective
 
-This project is a testament to the initial steps of my programming journey, emphasizing the use of fundamental HTML skills
-such as forms. As such, it's crafted with simplicity in mind, making it accessible for other beginners who might
-be interested in exploring basic form projects in HTML.
+The main goal of this project is to demonstrate the foundational aspects of HTML and CSS, focusing on form creation and styling. It serves as a practical exercise for those new to programming, showcasing how to build a functional web form from scratch.
 
-## How to use
+## Features
 
-To play the game, you will be prompted to enter a lower and an upper bound for the number range. The game will then calculate the
-number of guesses you have based on these bounds. Your goal is to guess the correct number within these attempts. After each guess,
-the game will tell you if your guess is too high, too low, or correct. If you run out of number of guesses and still did not guess
-the corrent number, the game will tell you that you have run out of guesses amd give you the correct number.
+- **User Input Fields:** Collects essential information for a job application.
+- **Resume Upload:** Allows users to attach their resume as part of the application.
+- **Validation:** Ensures that all required fields are filled out before submission.
+- **Responsive Design:** A touch of CSS makes the form user-friendly across different devices.
 
-## Installation
+## How to View
 
-Make sure you have Python installed on your machine. This game is compatible with Python 3.x. Here are the steps to get the game up
-and running:
+To view the job application form, simply open the `index.html` file in any modern web browser. No server setup is required, making it easy to test and explore the form's functionality.
 
-1. **Install Python:** Ensure Python 3.x is installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
-2. **Download the Game:** Clone this repository or download the game file to your local machine.
-3. **Run the Game:** Navigate to the game's directory in your terminal or command prompt and run the command `python3 game_filename.py
-4. ` (replace `game_filename.py` with the actual file name).
+## Learning Outcome
 
-## Contribution
+Creating this project helped me understand:
+- Basic HTML structure and elements, especially forms.
+- Incorporating CSS for basic styling and layout adjustments.
+- The importance of form validation for a better user experience.
 
-Given that this project is part of my learning experience, I am not actively seeking contributions. However, feedback and suggestions are highly
-welcome. Feel free to fork the project, experiment with your own ideas, and share your thoughts on how it could be improved or what concepts it
-helped you understand.
+## How to Contribute
+
+While this project is a personal learning milestone, I welcome any feedback, suggestions, or contributions. Feel free to fork the repository, experiment with changes, and share your enhancements. Your input can help improve this project and assist others in their learning journey.
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE.md).
+This project is released under the MIT License, encouraging open collaboration and sharing within the community. See the [LICENSE.md](LICENSE.md) file for more details.
